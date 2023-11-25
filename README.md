@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 - :dancers: I'm still exploring to find my passion! Primarily, my interests lie at the intersection of technology and social impact; I enjoy delving into how data science can contribute to meaningful societal change.   
 - :desktop_computer: At the moment, I'm a project manager for two clients: Rakuten Viki, and Afterwork. My team and I are implementing a dark mode website using Figma mockups and front-end code for Afterwork. We are also developing marketing campaigns for Rakuten Viki through short form videos and organizing on-campus promotional events. 
 - :ribbon: I find joy in mundane moments. My favorite hobbies include running errands, exercising (yoga, tennis, hiking), and curling up with a book or comfort movie.
-
-#### 📊 GitHub Stats
-
-[![Your GitHub Stats](https://camo.githubusercontent.com/343d377b31452754ef42dd9be93a95ca3ff1aa89cd7de6f6aa90a1c0a505dc94/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6361726f6c6c693738372673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964653d636f6e74726962732c707273)](https://github.com/carolli787)
     
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/carol-lli/) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu)!
 
 <!--
 ### Hello, I'm Carol Li! 👋
+#### 📊 GitHub Stats
+
+[![Your GitHub Stats](https://camo.githubusercontent.com/343d377b31452754ef42dd9be93a95ca3ff1aa89cd7de6f6aa90a1c0a505dc94/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6361726f6c6c693738372673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964653d636f6e74726962732c707273)](https://github.com/carolli787)
 
 My interests lie at the intersection of technology and social impact, and I enjoy exploring how data science can contribute to meaningful societal change. Currently, I'm a Data Science & Sociology student at UC Berkeley. 
 
