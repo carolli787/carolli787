@@ -43,7 +43,7 @@ Here are some projects I'm proud of:
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/carol-lli/)) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/carol-lli/) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu).
 
 Let's collaborate and build something amazing together!
 
