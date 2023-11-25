@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Carol Li! 👋
+
+My interests lie at the intersection of technology and social impact, and I enjoy exploring how data science can contribute to meaningful societal change. Currently, I'm a Data Science & Sociology student at UC Berkeley. 
+
+## 🔧 Technologies & Tools
+
+- Python, Java, SQL
+- Machine Learning, Data Analytics & Visualization
+- Git, GitHub
+
+## 🌱 I'm Currently Learning
+
+- [Technology/Framework you are learning]
+
+## 📊 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolli787&show_icons=true&count_private=true&hide=contribs,prs)
+
+## 🚀 Projects
+
+Here are some projects I'm proud of:
+
+- [Project 1: Name](link)
+- [Project 2: Name](link)
+- ...
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/carol-lli/)) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu).
+
+Let's collaborate and build something amazing together!
+
