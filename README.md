@@ -11,7 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-* 
+
+- :palm_tree: Personal introduction: where you're from
+- :ledger: Education: Major and School
+- :dancers:Passion Statement
+- :desktop_computer: Current projects
+- :ribbon: What you like to do in your free time
+- Where to contact 
 
 <!--
 ### Hello, I'm Carol Li! 👋
