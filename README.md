@@ -1,6 +1,6 @@
 ### Hi there, I'm Carol! 👋
 <!-- **carolli787/carolli787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=carolli787.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/carolli787&left_color=green&right_color=red)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
