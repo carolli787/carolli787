@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :desktop_computer: At the moment, I'm a project manager for two clients: Rakuten Viki, and Afterwork. My team and I are implementing a dark mode website using Figma mockups and front-end code for Afterwork. We are also developing marketing campaigns for Rakuten Viki through short form videos and organizing on-campus promotional events. 
 - :ribbon: I find joy in mundane moments. My favorite hobbies include running errands, exercising (yoga, tennis, hiking), and curling up with a book or comfort movie.
     
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/carol-lli/) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu). 
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/carol-lli/) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu)!
 
 <!--
 ### Hello, I'm Carol Li! 👋
