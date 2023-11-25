@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
   
-- :palm_tree: I was born and raised in Southern California (aka I don't expereince any seasons), and am now in the Bay Area for university~ 
+*:palm_tree: I was born and raised in Southern California (aka I don't expereince any seasons), and am now in the Bay Area for university~ 
 - :ledger: Currently, I am a undergraduate student at UC Berkeley majoring in Data Science and Sociology. 
 - :dancers: I'm still exploring to find my passion! Primarily, my interests lie at the intersection of technology and social impact; I enjoy exploring how data science can contribute to meaningful societal change.   
 - :desktop_computer: At the moment, I'm a project manager for two clients: Rakuten Viki, and Afterwork. My team and I are implementing a dark mode website infrastructure using Figma mockups and front-end code for Afterwork. We are also developing marketing campaigns for Rakuten Viki through short form videos and organizing on-campus promotional events. 
