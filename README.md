@@ -1,5 +1,5 @@
 ### Hi there, I'm Carol! 👋
-<!-- **carolli787/carolli787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!-- **carolli787/carolli787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - :ledger: Currently, I am a undergraduate student at UC Berkeley majoring in Data Science and Sociology. 
 - :dancers: I'm still exploring to find my passion! Primarily, my interests lie at the intersection of technology and social impact; I enjoy exploring how data science can contribute to meaningful societal change.   
 - :desktop_computer: At the moment, I'm a project manager for two clients: Rakuten Viki, and Afterwork. My team and I are implementing a dark mode website infrastructure using Figma mockups and front-end code for Afterwork. We are also developing marketing campaigns for Rakuten Viki through short form videos and organizing on-campus promotional events. 
-- :ribbon: For my free time, I find joy in mundane moments. My favorite hobbies include running errands, exercising (yoga, tennis, hiking), and curling up with a book or comfort movie.   
+- :ribbon: I find joy in mundane moments. My favorite hobbies include running errands, exercising (yoga, tennis, hiking), and curling up with a book or comfort movie.   
 📫 You can reach me at carolli787@berkeley.edu! I'd love to connect. 
 
 <!--
