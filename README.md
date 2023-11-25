@@ -31,7 +31,7 @@ My interests lie at the intersection of technology and social impact, and I enjo
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolli787&show_icons=true&count_private=true&hide=contribs,prs)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/carolli787)
 
 ## 🚀 Projects
 
