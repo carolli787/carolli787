@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **carolli787/carolli787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<!--
 ### Hello, I'm Carol Li! 👋
 
 My interests lie at the intersection of technology and social impact, and I enjoy exploring how data science can contribute to meaningful societal change. Currently, I'm a Data Science & Sociology student at UC Berkeley. 
@@ -46,4 +46,5 @@ Here are some projects I'm proud of:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/carol-lli/) or drop me an email at [carolli787@berkeley.edu](carolli787@berkeley.edu).
 
 Let's collaborate and build something amazing together!
+-->
 
