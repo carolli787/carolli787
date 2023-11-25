@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, I'm Carol Li! 👋
+### Hello, I'm Carol Li! 👋
 
 My interests lie at the intersection of technology and social impact, and I enjoy exploring how data science can contribute to meaningful societal change. Currently, I'm a Data Science & Sociology student at UC Berkeley. 
 
