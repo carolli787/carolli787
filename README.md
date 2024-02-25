@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌴 I was born and raised in Southern California, and am now in the Bay Area for university~
 - :ledger: Currently, I am an undergrad student at UC Berkeley double majoring in Data Science and Sociology. 
-- :dancers: I'm still exploring to find my passion! Primarily, my interests lie at the intersection of technology and social impact; I enjoy delving into how data science can contribute to meaningful societal change.   
+- :dancers: Primarily, my interests lie at the intersection of technology and social impact; I enjoy delving into how data science can contribute to meaningful societal change.   
 - :desktop_computer: At the moment, I'm a project manager for two clients: Rakuten Viki, and Afterwork. My team and I are implementing a dark mode website using Figma mockups and front-end code for Afterwork. We are also developing marketing campaigns for Rakuten Viki through short form videos and organizing on-campus promotional events. 
 - :ribbon: I find joy in mundane moments. My favorite hobbies include running errands, exercising (yoga, tennis, hiking), and curling up with a book or comfort movie.
     
